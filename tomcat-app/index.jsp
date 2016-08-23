@@ -5,7 +5,7 @@
                  java.lang.*" %>
 
 <%@ page contentType="text/html; charset=UTF-8" %>
-<h1>Hello World from Tomcat app</h1>
+<h1>Hello Octank from Tomcat app</h1>
 <h3>I'm running</h3>
 <pre>
 <%
